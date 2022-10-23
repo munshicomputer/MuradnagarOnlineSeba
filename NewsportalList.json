@@ -5,9 +5,119 @@
         "logolink":"http://muradnagarbarta24.com/wp-content/themes/muradnagorbarta/images/main-logo.png"
     },
     {
-        "name":"বাংলার টিভি",
-        "link":"https://banglartv.live/",
-        "logolink":"https://banglartv.live/wp-content/uploads/2022/06/Picsart_22-04-17_12-28-42-973-1-scaled.jpg"
+        "name":" কুমিল্লার কাগজ ",
+        "link":"https://comillarkagoj.com/",
+        "logolink":"https://comillarkagoj.com/images/logo.jpg"
+    },
+    {
+        "name":"কুমিল্লার খবর",
+        "link":"https://www.comillarkhabor.com/",
+        "logolink":"https://www.comillarkhabor.com/wp-content/uploads/2020/08/ComillarKhabor-CumillarKhabor-ComillarKhobor-CumillarKhobor-ComillaNews-ComillarBarta-ComillaReport-ComillarKagoj-JagoCumilla-JagoComilla-Cumilla24-Logo.png"
+    },
+    {
+        "name":"কুমিল্লার বার্তা",
+        "link":"https://comillarbarta.com/",
+        "logolink":"https://comillarbarta.com/wp-content/uploads/2022/08/Comillar-Barta.png"
+    },
+    {
+        "name":"রূপসী বাংলা",
+        "link":"dailyrupashibangla.com",
+        "logolink":"https://dailyrupashibangla.com/uploads/settings/1623854675.jpg"
+    },
+    {
+        "name":"প্রথম আলো",
+        "link":"https://www.prothomalo.com/",
+        "logolink":"https://munshicomputer.github.io/MuradnagarOnlineSeba/prothomalo.png"
+    },
+    {
+        "name":"মানবজমিন",
+        "link":"https://mzamin.com/",
+        "logolink":"https://mzamin.com/assets/images/logo.png"
+    },
+    {
+        "name":"বাংলাদেশ প্রতিদিন",
+        "link":"https://www.bd-pratidin.com/",
+        "logolink":"https://www.bd-pratidin.com/assets/newDesktop/img/logo.png"
+    },
+    {
+        "name":"দৈনিক ইত্তেফাক",
+        "link":"https://www.ittefaq.com.bd/",
+        "logolink":"https://munshicomputer.github.io/MuradnagarOnlineSeba/ittefaq.png"
+    },
+    {
+        "name":"কালের কন্ঠ",
+        "link":"https://www.kalerkantho.com/",
+        "logolink":"https://www.kalerkantho.com/assets/site/img/logo.png"
+    },
+    {
+        "name":"নয়া দিগন্ত",
+        "link":"https://dailynayadiganta.com/",
+        "logolink":"https://www.dailynayadiganta.com/resources/img/sitesetup/1_2.png"
+    },
+    {
+        "name":"আমার সংবাদ",
+        "link":"https://www.amarsangbad.com/",
+        "logolink":"https://www.amarsangbad.com/media/common/amasangbad.png"
+    },
+    {
+        "name":"প্রতিদিনের সংবাদ",
+        "link":"https://www.protidinersangbad.com/",
+        "logolink":"https://www.protidinersangbad.com/templates/web-ps/images/site-logo.png"
+    },
+    {
+        "name":"দৈনিক সংগ্রাম",
+        "link":"https://dailysangram.com/",
+        "logolink":"https://dailysangram.com/logos/logo.jpg"
+    },
+    {
+        "name":"সমকাল",
+        "link":"https://samakal.com/",
+        "logolink":"https://samakal.com/assets/images/logo-bn.png"
+    },
+    {
+        "name":"দৈনিক জনকন্ঠ",
+        "link":"https://www.dailyjanakantha.com/",
+        "logolink":"https://www.dailyjanakantha.com/media/common/logo.png"
+    },
+    {
+        "name":"ভোরের কাগজ",
+        "link":"https://www.bhorerkagoj.com/",
+        "logolink":"https://www.bhorerkagoj.com/wp-content/uploads/2020/01/BK-Live-PNG.png"
+    },
+    {
+        "name":"ভোরের পাতা",
+        "link":"https://www.dailyvorerpata.com/",
+        "logolink":"https://www.dailyvorerpata.com/images/logo.jpg"
+    },
+    {
+        "name":"খোলা কাগজ",
+        "link":"http://www.kholakagojbd.com/",
+        "logolink":"http://www.kholakagojbd.com/new_version/images/logo.png"
+    },
+    {
+        "name":"দৈনিক আজকের কুমিল্লা",
+        "link":"https://www.ajker-cumilla.com/",
+        "logolink":"https://www.ajker-cumilla.com/wp-content/themes/ajker-comilla/images/logo.jpg"
+    },
+    {
+        "name":"ডেইলি কুমিল্লা নিউজ",
+        "link":"https://dailycomillanews.com/",
+        "logolink":"https://dailycomillanews.com/wp-content/uploads/2022/09/Untitled-2-1.png"
+    },
+    {
+        "name":"কুমিল্লা টাইমস",
+        "link":"https://comillatimes.com/",
+        "logolink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSLqW2KHNZodrQ8BXLRLx7lae6ibb5csRWaOJjL1zd&s"
+    },
+    {
+        "name":"জাগোনিউজ২৪.কম",
+        "link":"https://www.jagonews24.com/bangladesh/chittagong/comilla/muradnagar",
+        "logolink":"https://cdn.jagonews24.com/media/common/logo.png"
+    },
+    {
+        "name":"Natun Comilla",
+        "link":"https://www.natuncumilla.com/",
+        "logolink":"https://www.natuncumilla.com/wp-content/uploads/2019/02/natun-comilla-New-logo-1.png"
     },
     {
         "name":"কুমিল্লা এসডি নিউজ ২৪",
@@ -15,8 +125,8 @@
         "logolink":"https://cumillasdnews24.com/wp-content/uploads/2020/06/Untitled-4.png"
     },
     {
-        "name":"দৈনিক আজকের কুমিল্লা",
-        "link":"https://www.ajker-cumilla.com/",
-        "logolink":"https://www.ajker-cumilla.com/wp-content/themes/ajker-comilla/images/logo.jpg"
+        "name":"বাংলার টিভি",
+        "link":"https://banglartv.live/",
+        "logolink":"https://banglartv.live/wp-content/uploads/2022/06/Picsart_22-04-17_12-28-42-973-1-scaled.jpg"
     }
 ]
