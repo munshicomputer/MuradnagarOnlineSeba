@@ -20,6 +20,26 @@
         "logolink":"https://comillarbarta.com/wp-content/uploads/2022/08/Comillar-Barta.png"
     },
     {
+        "name":"দৈনিক আজকের কুমিল্লা",
+        "link":"https://www.ajker-cumilla.com/",
+        "logolink":"https://www.ajker-cumilla.com/wp-content/themes/ajker-comilla/images/logo.jpg"
+    },
+    {
+        "name":"ডেইলি কুমিল্লা নিউজ",
+        "link":"https://dailycomillanews.com/",
+        "logolink":"https://dailycomillanews.com/wp-content/uploads/2022/09/Untitled-2-1.png"
+    },
+    {
+        "name":"কুমিল্লা টাইমস",
+        "link":"https://comillatimes.com/",
+        "logolink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSLqW2KHNZodrQ8BXLRLx7lae6ibb5csRWaOJjL1zd&s"
+    },
+    {
+        "name":"কুমিল্লা এসডি নিউজ ২৪",
+        "link":"https://cumillasdnews24.com/",
+        "logolink":"https://cumillasdnews24.com/wp-content/uploads/2020/06/Untitled-4.png"
+    },
+    {
         "name":"রূপসী বাংলা",
         "link":"dailyrupashibangla.com",
         "logolink":"https://dailyrupashibangla.com/uploads/settings/1623854675.jpg"
@@ -95,21 +115,6 @@
         "logolink":"http://www.kholakagojbd.com/new_version/images/logo.png"
     },
     {
-        "name":"দৈনিক আজকের কুমিল্লা",
-        "link":"https://www.ajker-cumilla.com/",
-        "logolink":"https://www.ajker-cumilla.com/wp-content/themes/ajker-comilla/images/logo.jpg"
-    },
-    {
-        "name":"ডেইলি কুমিল্লা নিউজ",
-        "link":"https://dailycomillanews.com/",
-        "logolink":"https://dailycomillanews.com/wp-content/uploads/2022/09/Untitled-2-1.png"
-    },
-    {
-        "name":"কুমিল্লা টাইমস",
-        "link":"https://comillatimes.com/",
-        "logolink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSLqW2KHNZodrQ8BXLRLx7lae6ibb5csRWaOJjL1zd&s"
-    },
-    {
         "name":"জাগোনিউজ২৪.কম",
         "link":"https://www.jagonews24.com/bangladesh/chittagong/comilla/muradnagar",
         "logolink":"https://cdn.jagonews24.com/media/common/logo.png"
@@ -118,11 +123,6 @@
         "name":"Natun Comilla",
         "link":"https://www.natuncumilla.com/",
         "logolink":"https://www.natuncumilla.com/wp-content/uploads/2019/02/natun-comilla-New-logo-1.png"
-    },
-    {
-        "name":"কুমিল্লা এসডি নিউজ ২৪",
-        "link":"https://cumillasdnews24.com/",
-        "logolink":"https://cumillasdnews24.com/wp-content/uploads/2020/06/Untitled-4.png"
     },
     {
         "name":"বাংলার টিভি",
