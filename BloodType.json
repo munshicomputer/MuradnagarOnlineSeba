@@ -1,0 +1,34 @@
+[
+  {
+    "bn":"A+(ve)",
+    "bg":"https://www.blood.ca/sites/default/files/icon/blood-types_a-positive_blood-drop.jpg"
+  },
+  {
+    "bn":"A-(ve)",
+    "bg":"https://www.blood.ca/sites/default/files/icon/blood-types_a-negative_blood-drop.jpg"
+  },
+  {
+    "bn":"B+(ve)",
+    "bg":"https://www.blood.ca/sites/default/files/icon/blood-types_b-positive_blood-drop.jpg"
+  },
+  {
+    "bn":"B-(ve)",
+    "bg":"https://www.blood.ca/sites/default/files/icon/blood-types_b-negative_blood-drop.jpg"
+  },
+  {
+    "bn":"AB+(ve)",
+    "bg":"https://www.blood.ca/sites/default/files/icon/blood-types_ab-positive_blood-drop.jpg"
+  },
+  {
+    "bn":"AB-(ve)",
+    "bg":"https://www.blood.ca/sites/default/files/icon/blood-types_ab-negative_blood-drop.jpg"
+  },
+  {
+    "bn":"O+(ve)",
+    "bg":"https://www.blood.ca/sites/default/files/icon/blood-types_o-positive_blood-drop.jpg"
+  },
+  {
+    "bn":"O-(ve)",
+    "bg":"https://www.blood.ca/sites/default/files/icon/blood-types_o-negative_blood-drop.jpg"
+  }
+]
